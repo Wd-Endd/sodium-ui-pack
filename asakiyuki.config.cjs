@@ -5,7 +5,7 @@
 const config = {
     compiler: {
         autoCompress: false,
-        fileExtension: "json",
+        fileExtension: "class",
         encodeJson: false,
         UI: {
             nameLength: 32,
