@@ -21,3 +21,10 @@ Vanilla.settingsCommon.dynamicDialogScreen({
         )
         .getPath(),
 })
+
+Vanilla.generalSection.videoSection().override.addBindings({
+    binding_type: BindingType.View,
+    source_control_name: "dev_video_button_toggle",
+    source_property_name: "#toggle_state",
+    target_property_name: "#visible",
+})
