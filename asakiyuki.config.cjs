@@ -9,7 +9,7 @@ const config = {
         encodeJson: false,
         UI: {
             nameLength: 32,
-            namespaceAmount: 16,
+            namespaceAmount: 1,
             namespaceLength: 32,
             obfuscateName: true,
             obfuscateType: true,
