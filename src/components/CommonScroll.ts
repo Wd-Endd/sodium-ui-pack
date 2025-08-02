@@ -1,4 +1,4 @@
-import { Anchor, Orientation, Types, UI } from "jsonui-scripting";
+import { Anchor, Orientation, Types, UI } from "asajs";
 
 export class CommonScroll {
 

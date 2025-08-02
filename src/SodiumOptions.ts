@@ -1,4 +1,4 @@
-import { Anchor, Bool, Int, Orientation, Properties, Types, UI } from "jsonui-scripting";
+import { Anchor, Bool, Int, Orientation, Properties, Types, UI } from "asajs";
 import { CommonButtons } from "./components/CommonButtons";
 import { CommonToggles } from "./components/CommonToggles";
 import { Common } from "./components/Common";

@@ -1,4 +1,4 @@
-import { BindingType, Orientation, Types, UI } from "jsonui-scripting"
+import { BindingType, Orientation, Types, UI } from "asajs"
 
 
 export class SodiumSections {

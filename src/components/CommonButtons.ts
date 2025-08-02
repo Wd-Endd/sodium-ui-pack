@@ -1,4 +1,4 @@
-import { Anchor, Image, Types, UI, Vanilla } from "jsonui-scripting";
+import { Anchor, Image, Types, UI, Vanilla } from "asajs";
 import { Common } from "./Common";
 
 export class CommonButtons {

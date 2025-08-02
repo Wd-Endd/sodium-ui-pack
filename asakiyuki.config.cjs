@@ -24,7 +24,7 @@ const config = {
     },
     manifest: {
         name: "Sodium [UI] [Dev]",
-        description: "Build with JsonUI Scripting <3",
+        description: "Build with AsaJS <3",
     },
 };
 

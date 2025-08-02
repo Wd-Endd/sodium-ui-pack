@@ -1,4 +1,4 @@
-const {} = require("jsonui-scripting");
+const {} = require("asajs");
 
 const global_variables = {};
 

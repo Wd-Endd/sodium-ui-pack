@@ -1,4 +1,4 @@
-import { FontType, UI } from "jsonui-scripting";
+import { FontType, UI } from "asajs";
 
 export class Common {
     static globalText = UI.label({

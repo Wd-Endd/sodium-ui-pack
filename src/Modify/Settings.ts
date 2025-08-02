@@ -1,4 +1,4 @@
-import { BindingType, UI, Vanilla } from "jsonui-scripting";
+import { BindingType, UI, Vanilla } from "asajs";
 import { SodiumOptions } from "../SodiumOptions";
 
 Vanilla.settingsCommon.dynamicDialogScreen({

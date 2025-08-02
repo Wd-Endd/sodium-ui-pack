@@ -1,9 +1,13 @@
 {
-  "license":"MIT",
+  "license": "GPL-3.0-only",
   "scripts": {
     "build": "tsc && node ./dist/app.js"
   },
   "dependencies": {
-    "jsonui-scripting": "^2.3.3"
+    "asajs": "^3.0.6"
+  },
+  "devDependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^5.9.2"
   }
 }
