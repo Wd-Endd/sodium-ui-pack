@@ -25,6 +25,8 @@ const config = {
     manifest: {
         name: "Sodium [UI] [Dev]",
         description: "Build with AsaJS <3",
+        version: [0, 0, 2],
+        baseGameVersion: [1, 21, 80],
     },
 };
 
